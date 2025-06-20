@@ -9,7 +9,7 @@
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=UeharaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UeharaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
 
@@ -46,7 +46,7 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-4FC08D?style=for-the-badge&logo=bookstack&logoColor=white" alt="DDD" />
-<img src="https://img.shields.io/badge/API-Design-FF6B6B?style=for-the-badge&logo=swagger&logoColor=white" alt="API Design" />
+<img src="https://img.shields.io/badge/API%20Integration-Integration-9B59B6?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
 <img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-FF9500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </div>
 
