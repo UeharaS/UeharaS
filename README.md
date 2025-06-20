@@ -2,18 +2,17 @@
 
 # 👋 Welcome to my GitHub Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+UeharaS+%F0%9F%91%8B;Python+%7C+Terraform+%7C+Azure+Developer;Backend+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;API+Integration+Expert+%F0%9F%94%97;LLM+%26+AI+Enthusiast+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%93%9A;Building+scalable+solutions+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=5E81AC&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+UeharaS+%F0%9F%91%8B;Python+%7C+Terraform+%7C+Azure+Developer;Backend+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;API+Integration+Expert+%F0%9F%94%97;LLM+%26+AI+Enthusiast+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%93%9A;Building+scalable+solutions+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 
 ---
 
 ## 📊 GitHub Statistics
 
-<img width="49%" src="https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=UeharaS&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=nord&count_private=true&hide_border=true&bg_color=F7F9FC&title_color=5E81AC&text_color=4C566A&icon_color=81A1C1" alt="GitHub Stats" />
 
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UeharaS&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=UeharaS&theme=nord&no-frame=true&column=7&bg_color=F7F9FC)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -49,9 +48,9 @@
 </table>
 
 <div align="center">
-<img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-4FC08D?style=for-the-badge&logo=bookstack&logoColor=white" alt="DDD" />
-<img src="https://img.shields.io/badge/API%20Integration-Integration-9B59B6?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
-<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-FF9500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
+<img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-5E81AC?style=for-the-badge&logo=bookstack&logoColor=white" alt="DDD" />
+<img src="https://img.shields.io/badge/API%20Integration-Integration-81A1C1?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
+<img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-88C0D0?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </div>
 
 ---
