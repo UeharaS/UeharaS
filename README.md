@@ -1,21 +1,12 @@
 <div align="center">
 
-<!-- Header Section -->
-<table width="100%">
-<tr>
-<td width="85%" align="center">
-<h1 style="color: #8B7BA3; margin: 0;">
-🌟 Welcome to my GitHub Profile!
-</h1>
-<p style="color: #6B5B73; font-size: 18px; margin: 5px 0;">
-<b>Backend Engineer | Cloud Specialist</b>
-</p>
-</td>
-<td width="15%" align="right">
-<img width="12.5%" src="./profile-banner.png" alt="Profile Banner" style="border-radius: 10px; opacity: 0.8;" />
-</td>
-</tr>
-</table>
+<!-- Header Banner -->
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=d8c1dd&height=200&section=header&text=UeharaS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20Specialist&descAlignY=55&descAlign=50" />
+
+<!-- Small Accent Image -->
+<div align="right" style="margin-top: -40px; margin-right: 20px;">
+<img width="120" src="./profile-banner.png" alt="Profile Banner" style="border-radius: 10px; opacity: 0.7; border: 2px solid #ffffff;" />
+</div>
 
 <br><br>
 
