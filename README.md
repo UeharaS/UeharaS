@@ -3,15 +3,19 @@
 <!-- Header Banner -->
 <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=d8c1dd&height=200&section=header&text=UeharaS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20Specialist&descAlignY=55&descAlign=50" />
 
-<!-- Small Accent Image -->
-<div align="right" style="margin-top: -40px; margin-right: 20px;">
-<img width="120" src="./profile-banner.png" alt="Profile Banner" style="border-radius: 10px; opacity: 0.7; border: 2px solid #ffffff;" />
-</div>
-
 <br><br>
 
-<!-- Typing Animation -->
+<!-- Typing Animation with Image -->
+<table width="100%">
+<tr>
+<td width="80%" align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B7BA3&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+a+Backend+Engineer;🐍+Python+%7C+☁️+Azure+%7C+🏗️+Terraform;🚀+Building+scalable+cloud+solutions;🤖+AI+%26+LLM+Integration;📡+API+Integration+Experience;🎯+Domain+Driven+Design+Advocate" alt="Typing SVG" />
+</td>
+<td width="20%" align="center" valign="middle">
+<img width="120" src="./profile-banner.png" alt="Profile Banner" style="border-radius: 10px; opacity: 0.7; border: 2px solid #ffffff;" />
+</td>
+</tr>
+</table>
 
 <br><br>
 
