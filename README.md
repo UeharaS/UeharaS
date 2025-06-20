@@ -9,7 +9,7 @@
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UeharaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=UeharaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br>
 
@@ -40,6 +40,10 @@
 <td align="center" width="100">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" />
 <br><strong>FastAPI</strong>
+</td>
+<td align="center" width="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="50" height="50" alt="GitHub Actions" />
+<br><strong>GitHub Actions</strong>
 </td>
 </tr>
 </table>
