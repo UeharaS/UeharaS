@@ -2,14 +2,14 @@
 
 # 👋 Welcome to my GitHub Profile!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=440&lines=Hello%2C+I'm+UeharaS+%F0%9F%91%8B;Python+%7C+Terraform+%7C+Azure;Backend+Developer+%F0%9F%9A%80;Always+learning+new+things+%F0%9F%93%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+UeharaS+%F0%9F%91%8B;Python+%7C+Terraform+%7C+Azure+Developer;Backend+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;API+Integration+Expert+%F0%9F%94%97;LLM+%26+AI+Enthusiast+%F0%9F%A4%96;Always+learning+new+tech+%F0%9F%93%9A;Building+scalable+solutions+%F0%9F%8F%97%EF%B8%8F" alt="Typing SVG" />
 
 ---
 
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=UeharaS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=UeharaS&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Streak" />
 
 <br>
 
@@ -53,6 +53,15 @@
 <img src="https://img.shields.io/badge/API%20Integration-Integration-9B59B6?style=for-the-badge&logo=postman&logoColor=white" alt="API Integration" />
 <img src="https://img.shields.io/badge/LLM-Large%20Language%20Models-FF9500?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 </div>
+
+---
+
+## ⏱️ Weekly Development Breakdown
+
+[![wakatime](https://wakatime.com/badge/user/e62cd756-2a6e-4460-a7b1-a25398282b7f.svg)](https://wakatime.com/@e62cd756-2a6e-4460-a7b1-a25398282b7f)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
