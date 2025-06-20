@@ -1,12 +1,22 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=d8c1dd&height=200&section=header&text=UeharaS&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Cloud%20Specialist&descAlignY=55&descAlign=50" />
+<img width="100%" src="./profile-banner.png" alt="Profile Banner" />
+
+<!-- Profile Title Overlay -->
+<div align="center">
+<h1 style="margin-top: -50px; color: #8B7BA3; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
+🌟 UeharaS
+</h1>
+<p style="margin-top: -10px; color: #6B5B73; font-size: 18px;">
+<b>Backend Engineer | Cloud Specialist</b>
+</p>
+</div>
 
 <br><br>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B7BA3&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+a+Backend+Engineer;🐍+Python+%7C+☁️+Azure+%7C+🏗️+Terraform;🚀+Building+scalable+cloud+solutions;🤖+AI+%26+LLM+Integration+Specialist;📡+API+Design+%26+Integration+Expert;🎯+Domain+Driven+Design+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=8B7BA3&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I'm+a+Backend+Engineer;🐍+Python+%7C+☁️+Azure+%7C+🏗️+Terraform;🚀+Building+scalable+cloud+solutions;🤖+AI+%26+LLM+Integration;📡+API+Integration+Experience;🎯+Domain+Driven+Design+Advocate" alt="Typing SVG" />
 
 <br><br>
 
@@ -73,7 +83,7 @@
 
 <!-- Specializations -->
 <img src="https://img.shields.io/badge/🏗️%20DDD-Domain%20Driven%20Design-d8c1dd?style=for-the-badge&logoColor=white" alt="DDD" />
-<img src="https://img.shields.io/badge/🔗%20API-Integration%20Expert-f5dbdc?style=for-the-badge&logoColor=white" alt="API Integration" />
+<img src="https://img.shields.io/badge/🔗%20API-Integration%20Experience-f5dbdc?style=for-the-badge&logoColor=white" alt="API Integration" />
 <img src="https://img.shields.io/badge/🤖%20LLM-AI%20Integration-c8d6d7?style=for-the-badge&logoColor=white" alt="LLM" />
 
 </div>
@@ -111,8 +121,13 @@
 <br><br>
 
 <!-- Footer -->
-<img width="100%" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=c8d6d7&height=100&section=footer" />
-
-<sub>💡 <i>Building tomorrow's solutions with today's technology</i></sub>
+<div style="background: linear-gradient(90deg, #d8c1dd 0%, #f5dbdc 50%, #c8d6d7 100%); padding: 20px; border-radius: 10px; margin-top: 20px;">
+<p align="center" style="color: #6B5B73; margin: 0;">
+💡 <i><b>Building tomorrow's solutions with today's technology</b></i>
+</p>
+<p align="center" style="color: #8B7BA3; margin: 5px 0 0 0; font-size: 12px;">
+✨ Crafted with passion and precision ✨
+</p>
+</div>
 
 </div>
