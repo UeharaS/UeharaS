@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-eosin-eight-18.vercel.app/api/top-langs/?username=UeharaS&count_private=true&hide=python)](https://github.com/anuraghazra/github-readme-stats)
+[![UeharaS's GitHub stats](https://github-readme-stats-eosin-eight-18.vercel.app/api?username=UeharaS&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
