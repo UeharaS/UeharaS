@@ -1,17 +1,21 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="./profile-banner.png" alt="Profile Banner" />
-
-<!-- Profile Title Overlay -->
-<div align="center">
-<h1 style="margin-top: -50px; color: #8B7BA3; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">
-🌟 UeharaS
+<!-- Header Section -->
+<table width="100%">
+<tr>
+<td width="85%" align="center">
+<h1 style="color: #8B7BA3; margin: 0;">
+🌟 Welcome to my GitHub Profile!
 </h1>
-<p style="margin-top: -10px; color: #6B5B73; font-size: 18px;">
+<p style="color: #6B5B73; font-size: 18px; margin: 5px 0;">
 <b>Backend Engineer | Cloud Specialist</b>
 </p>
-</div>
+</td>
+<td width="15%" align="right">
+<img width="12.5%" src="./profile-banner.png" alt="Profile Banner" style="border-radius: 10px; opacity: 0.8;" />
+</td>
+</tr>
+</table>
 
 <br><br>
 
